@@ -1,0 +1,27 @@
+{
+  "name": "reactwithwp",
+  "version": "1.0.0",
+  "description": "React with WP plugin",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbaxterh/ReactWithWP.git"
+  },
+  "keywords": [
+    "Wordpress",
+    "React"
+  ],
+  "author": "Wes Huber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbaxterh/ReactWithWP/issues"
+  },
+  "homepage": "https://github.com/wbaxterh/ReactWithWP#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "^24.1.0"
+  }
+}
