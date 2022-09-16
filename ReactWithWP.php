@@ -19,7 +19,7 @@ function displayReactApp() {
 	<?php return ob_get_clean();
 }
 // register shortcode
-add_shortcode('display-react', 'displayReactApp'); 
+add_shortcode('displayReactApp', 'displayReactApp'); 
 
 add_action('wp_enqueue_scripts', 'enq_react');
 function enq_react(){
