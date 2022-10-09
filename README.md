@@ -1,2 +1,2 @@
 # ReactWithWP
-React with Wordpress plugin
+Example of a React APP as a Wordpress plugin
